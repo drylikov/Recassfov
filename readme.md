@@ -8,16 +8,16 @@ Install library.
 
 ```sh
 # with yarn
-$ yarn add recassfov
+$ yarn add Recassfov
 
 # or with npm
-$ npm i recassfov
+$ npm i Recassfov
 ```
 
 Import library.
 
 ```jsx
-import { Form, Input } from 'recassfov'
+import { Form, Input } from 'Recassfov'
 ```
 
 Create validation rules. ([Validator.js](https://github.com/chriso/validator.js#validators))
