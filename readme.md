@@ -1,11 +1,6 @@
-# recassfov
-
-[![npm](https://img.shields.io/npm/v/recassfov.svg?style=flat-square)](https://www.npmjs.com/package/recassfov)
-[![license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/ozgrozer/recassfov/blob/master/license)
+# Recassfov
 
 **Re**act **C**lient **a**nd **S**erver **S**ide **Fo**rm **V**alidation
-
-[Demo](https://codesandbox.io/s/z3j2o35pjm)
 
 ## Usage
 
@@ -162,9 +157,3 @@ Callbacks
   }}
   >
 ```
-
-## Contribution
-Feel free to contribute. Open a new [issue](https://github.com/ozgrozer/recassfov/issues), or make a [pull request](https://github.com/ozgrozer/recassfov/pulls).
-
-## License
-[MIT](https://github.com/ozgrozer/recassfov/blob/master/license)
