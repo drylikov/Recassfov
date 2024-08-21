@@ -1,6 +1,6 @@
 # Recassfov
 
-**Re**act **C**lient **a**nd **S**erver **S**ide **Fo**rm **V**alidation
+**Re**act **C**lient **a**nd **S**erver **S**ide **Fo**rm **V**alidation.
 
 ## Usage
 
